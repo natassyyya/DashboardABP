@@ -114,7 +114,6 @@ Fitur Logout digunakan untuk mengakhiri sesi login admin dan mengamankan akses k
    ```
 
 ## Struktur Proyek
-
 - `app.js`: server Express dan endpoint API
 - `data/mahasiswa.json`: data mahasiswa
 - `public/`: file frontend (HTML, CSS, JS)
@@ -122,5 +121,8 @@ Fitur Logout digunakan untuk mengakhiri sesi login admin dan mengamankan akses k
 - `public/css/style.css`: gaya tampilan
 
 ## Catatan
-
 Server statis melayani semua file dari folder `public`, dan API berada di route `/api/mahasiswa`.
+
+## LINK PPT DAN VIDEO PRESENTASI
+PPT: 
+VIDEO: 
