@@ -1,0 +1,27 @@
+{
+    "name": "crud-mahasiswa-json",
+    "version": "1.0.0",
+    "description": "Aplikasi web sederhana CRUD Mahasiswa menggunakan Node.js, Bootstrap, jQuery, DataTables, dan JSON",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js",
+        "dev": "nodemon app.js"
+    },
+    "keywords": [
+        "nodejs",
+        "crud",
+        "bootstrap",
+        "jquery",
+        "datatable",
+        "json"
+    ],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.21.2"
+    },
+    "devDependencies": {
+        "nodemon": "^3.1.10"
+    }
+}
