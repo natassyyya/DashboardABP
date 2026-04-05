@@ -18,7 +18,9 @@ function readData() {
     }
 
     const raw = fs.readFileSync(DATA_FILE, 'utf-8');
-    return JSON.parse(raw);
+    // Remove BOM if present
+    const clean = raw.charCodeAt(0) === 0xFEFF ? raw.slice(1) : raw;
+    return JSON.parse(clean);
   } catch (error) {
     console.error('Gagal membaca data mahasiswa:', error);
     return [];
