@@ -124,5 +124,5 @@ Fitur Logout digunakan untuk mengakhiri sesi login admin dan mengamankan akses k
 Server statis melayani semua file dari folder `public`, dan API berada di route `/api/mahasiswa`.
 
 ## LINK PPT DAN VIDEO PRESENTASI
-PPT: 
-VIDEO: 
+PPT: https://canva.link/pec9fvfmx9k6nsz 
+VIDEO: https://drive.google.com/file/d/1uE3BN-lOKyGX4wyOXWUtNc5ew6F8NS8J/view?usp=sharing 
